@@ -1,4 +1,6 @@
 Website Sederhana menggunakan Framework Bootstrap 3
 
+Setelah Repository di Download dan di ekstrak, buka index.html untuk melihat halaman web.
+
 built by Ibrahim Afrado
 thanks to Mr.Sandhika Galih (Web Programming UNPAS)
